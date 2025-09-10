@@ -1,0 +1,3 @@
+# this file exists so that we know when not to do the
+# final_data.csv → final_data.csv.hdf5 conversion
+fingerprint: 160fbae5ded6193ffdffb9686b9205f0
