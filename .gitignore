@@ -14,3 +14,5 @@ Complete Deep Learning/Data Assets/Cat.jpg
 /Bank Note Authentication/.ipynb_checkpoints
 /Image Classification/.ipynb_checkpoints
 Image Classification/vgg19.h5
+Complete Deep Learning/model_rcat_dog.h5
+Complete Deep Learning/model_rcat_dog.keras
